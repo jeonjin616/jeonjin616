@@ -1,5 +1,15 @@
 ### Hi there 👋 ###
 
+<a href="s">
+  <a href="s">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonjin616&theme=codeSTACKr&show_icons=true"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjin616&exclude_repo=dkssud8150.github.io&layout=compact&theme=codeSTACKr"
+      width="28%"
+    />
+  </a>
+</a>
+
 <!--
 **jeonjin616/jeonjin616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
