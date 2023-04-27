@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Joel=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?jeonjin616=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <!--
 **jeonjin616/jeonjin616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
