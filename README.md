@@ -1,8 +1,16 @@
 ### Hi there 👋 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijeonjin616=anuraghazra&show_icons=true&theme=codeSTACKr)
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/apijeonjin616=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr"
+  media="(prefers-color-scheme: codeSTACKr)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jeonjin616&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeonjin616&show_icons=true" />
+</picture>
 
 <!--
 **jeonjin616/jeonjin616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
